@@ -4,7 +4,7 @@
 Write a Java code where a user can create an application and assign it to someone else for approval where it can also be rejected (something like jira)
 The trick is that this workflow/Java code need to be delivered by integrating with a business process management tool (jbpm, kie server)
 
-  - find the schematic diagram from bpmn diagram editor(eclipse plugin with the source code on git "7itti link hala2 mni3milou commit")
+  - find the schematic diagram from bpmn diagram editor(eclipse plugin with the source code on git "https://github.com/jeanSaade-springBoot/jbpm-kie-server-springboot.git")
 ### Step to deploy:
   -     generate kjar file from aven from the project: "application-management-kjar"
   -     run the spring boot project "application-management-service"
